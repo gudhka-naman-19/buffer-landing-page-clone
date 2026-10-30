@@ -123,7 +123,7 @@ For development, you can also use the Live Server extension in Visual Studio Cod
 
 **Naman Gudhka**
 
-GitHub: [@Naman-Gudhka-1912](https://github.com/gudhka-naman-19)
+GitHub: [@gudhka-naman-19](https://github.com/gudhka-naman-19)
 
 ## ⚠️ Disclaimer
 
